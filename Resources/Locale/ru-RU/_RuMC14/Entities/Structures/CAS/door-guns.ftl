@@ -26,4 +26,4 @@ ent-CMUActionMountedIFF = переключить систему опознава
 
 cmu-door-gun-magazine-slot = Магазин
 cmu-vendor-advanced-gunship-crew-hud = продвинутый HUD лётного экипажа
-cmu-vendor-basic-gunship-crew-huds = бвзовый HUD лётного экипажа
+cmu-vendor-basic-gunship-crew-huds = базовый HUD лётного экипажа
