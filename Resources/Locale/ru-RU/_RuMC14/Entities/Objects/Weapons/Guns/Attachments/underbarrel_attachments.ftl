@@ -11,8 +11,3 @@ ent-RMCAttachmentL90BUnderbarrelShotgun = подствольный дробов�
     .desc = Тактический дробовик, устанавливаемый под ствол большинства видов оружия. Вмещает не более пяти патронов с картечью. Предназначен для штурма помещений.
 ent-AU14AttachmentM20AUnderbarrelShotgun = подствольный дробовик M20A
     .desc = Переключитесь на использование подствольного дробовика.
-
-ent-AU14AttachmentM20AUnderbarrelShotgun-action-name = Переключиться на подствольный дробовик U7
-ent-AU14AttachmentM20AUnderbarrelShotgun-action-desc = Переключиться на использование подствольного дробовика.
-ent-AU14AttachmentM203A4GrenadeLauncher = подствольный гранатомёт M203A4
-    .desc = Перезаряжаемый гранатомёт, устанавливаемый на оружие.

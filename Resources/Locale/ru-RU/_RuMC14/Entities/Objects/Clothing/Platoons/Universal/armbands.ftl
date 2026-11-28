@@ -11,11 +11,11 @@ ent-AU14PortableVendorRMCRanks = кейс со знаками различия �
 ent-AU14PortableVendorUPPNIRanks = кейс со знаками различия морской пехоты СПН
     .suffix = СПН
     .desc = Компактный кейс со знаками различия, выдаваемый СПН. Тяжёлый, с красными печатями и во всех мыслимых отношениях чрезмерно идеологизированный.
-ent-AU14PortableVendorWeYuRanks = кейс со знаками различия ЧВК Вей-Ю
-    .suffix = Вей-Ю
+ent-AU14PortableVendorWeYuRanks = кейс со знаками различия ЧВК Ве-Ю
+    .suffix = Ве-Ю
     .desc = Корпоративная система хранения знаков различия. Всё имеет цветовую маркировку, оптимизировано и слегка угрожающе выглядит.
 ent-AU14PortableVendorPrDRanks = кейс со знаками различия подразделения реагирования Продиджи
-    .suffix = PrD
+    .suffix = продиджи
     .desc = Дешёвый кейс подрядчика, набитый ламинированными знаками различия и корпоративным оптимизмом.
 ent-AU14PortableVendorSEALACN = кейс со знаками различия ЛАКФ
     .suffix = ЛАКФ
@@ -312,9 +312,6 @@ ent-AU14ChevronCWPSChiefRanger = лычки главного рейнджера
     .desc = { ent-AU14ChevronCWPSBase.desc }
 
 # лычки САС
-
-ent-CMU14ChevronSASBase = лычки SAS
-    .desc = Лычки SAS.
 
 ent-CMU14ChevronSASPrivate = лычки рядового
     .desc = Да-а. Что у тебя за имя такое дурацкое, Соуп?
