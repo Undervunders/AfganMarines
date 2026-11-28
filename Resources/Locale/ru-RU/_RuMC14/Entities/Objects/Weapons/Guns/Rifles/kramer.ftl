@@ -13,8 +13,8 @@ ent-CMUWeaponRifleKramerEnforcerNoScope = винтовка Kramer «Энфорс
     .desc = Вариант штурмовой винтовки Kramer для правоохранительных органов, переделанный в полуавтоматическую марксманскую винтовку. Выдаётся колониальной полиции и силам безопасности. Использует стандартные магазины Kramer.
     
 ent-AU14WeaponRifleKramerMagazineStandard = магазин Kramer (10×24 мм)
-ent-CMUWeaponRifleKramerMagazineHP = магазин Kramer (ББ 10×24 мм)
-ent-AU14WeaponRifleKramerMagazineAP = магазин Kramer (ЭКС 10×24 мм)
+ent-CMUWeaponRifleKramerMagazineHP = экспансивный магазин Kramer (10×24 мм)
+ent-AU14WeaponRifleKramerMagazineAP = бронебойный магазин Kramer (10×24 мм)
 
 ent-CMUCartridgeRifle10x24mmHP = патрон с экспансивной пулей (10×24 мм)
     .desc = Патрон калибра 10×24 мм с экспансивной пулей. Используется в магазинах Kramer под экспансивные патроны.
